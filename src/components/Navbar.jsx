@@ -57,7 +57,7 @@ const Navbar = () => {
               duration={300}
               className="hover:text-brightColor transition-all cursor-pointer"
             >
-              Prestation
+              Prestations
             </Link>
 
             <Link
@@ -67,7 +67,7 @@ const Navbar = () => {
               duration={300}
               className="hover:text-brightColor transition-all cursor-pointer"
             >
-              Contacter nous
+              Contactez nous
             </Link>
 
             

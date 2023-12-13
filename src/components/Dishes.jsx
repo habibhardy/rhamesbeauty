@@ -38,9 +38,6 @@ const Dishes = () => {
         Nos services
       </h1>
 
-      <h1 className="text-9xl text-yellow-500 font-bold font-fontStyled"  >
-           R
-      </h1>
 
       <div className=" flex flex-wrap gap-8 justify-center">
 
