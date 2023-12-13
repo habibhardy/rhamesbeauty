@@ -53,7 +53,7 @@ const Footer = () => {
             duration={500}
             className=" hover:text-brightColor transition-all cursor-pointer"
           >
-            Contacter nous
+            Contactez nous
           </Link>
           </nav>
         </div>
